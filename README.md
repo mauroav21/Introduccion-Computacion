@@ -14,7 +14,9 @@ Introducir a los estudiantes en los fundamentos de la computación, desde el con
 
 
 
-## Módulo Propedéutico: Introducción General
+## Módulo 0 (Propedéutico): Introducción General
+[Presentación del Módulo](https://github.com/mauroav21/Introduccion-Computacion/blob/main/CursoDeIntroduccionComputacion.Modulo0.pdf)
+
 Temas:
 
 Presentación del curso y objetivos
