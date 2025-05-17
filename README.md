@@ -164,6 +164,7 @@ Temas:
 - IA como herramienta de estudio y creación
 
 Actividad: Usar una IA como ChatGPT para generar ideas, textos o resúmenes
+
 ## Authors
 
 - [@mauroav21](https://www.github.com/mauroav21)
